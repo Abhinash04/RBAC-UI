@@ -1,6 +1,6 @@
 # RBAC Dashboard
 
-Live website: https://rbac-gilt.vercel.app/
+Live website: https://rbac-ui-blush.vercel.app/
 
 A modern Role-Based Access Control (RBAC) Admin Dashboard built with React and Material-UI. This application provides a user-friendly interface for managing users, roles, and permissions with a focus on user experience and responsive design.
 
