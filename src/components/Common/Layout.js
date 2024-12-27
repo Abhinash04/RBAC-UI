@@ -166,31 +166,31 @@ export default function Layout({ children, onToggleTheme, currentTheme }) {
           {currentTheme === 'light' ? 'Dark Mode' : 'Light Mode'}
         </Button>
       </Box>
-      <Box sx={{ 
-        p: 2, 
-        pt: 1,
-        opacity: 0.7,
-        fontSize: '0.75rem',
-        color: 'text.secondary',
-        textAlign: 'center',
-      }}>
-        Developed by{' '}
-        <Box
-          component="a"
-          href="https://github.com/Abhinash04"
-          target="_blank"
-          rel="noopener noreferrer"
-          sx={{
-            color: 'inherit',
-            textDecoration: 'none',
-            '&:hover': {
-              textDecoration: 'underline',
-            },
-          }}
-        >
-          Abhinash Pritiraj
-        </Box>
-      </Box>
+      // <Box sx={{ 
+//         p: 2, 
+//         pt: 1,
+//         opacity: 0.7,
+//         fontSize: '0.75rem',
+//         color: 'text.secondary',
+//         textAlign: 'center',
+//       }}>
+//         Developed by{' '}
+//         <Box
+//           component="a"
+//           href="https://github.com/Abhinash04"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//           sx={{
+//             color: 'inherit',
+//             textDecoration: 'none',
+//             '&:hover': {
+//               textDecoration: 'underline',
+//             },
+//           }}
+//         >
+//           Abhinash Pritiraj
+//         </Box>
+//       </Box>
     </Box>
   );
 
