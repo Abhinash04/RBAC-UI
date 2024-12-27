@@ -232,4 +232,4 @@ The application now includes:
 - Custom themes
 
 ---
-Developed by [Abhinash Pritiraj](https://github.com/Abhinash04)
+Developed by [Zairza](https://github.com/Abhinash04)
